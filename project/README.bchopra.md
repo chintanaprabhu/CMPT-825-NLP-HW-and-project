@@ -1,0 +1,2 @@
+- LSTM model
+- Parts of poster
