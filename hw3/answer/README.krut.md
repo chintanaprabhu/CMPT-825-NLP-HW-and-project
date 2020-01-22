@@ -1,0 +1,2 @@
+- Implemented the Option 2 Model
+- Documentation

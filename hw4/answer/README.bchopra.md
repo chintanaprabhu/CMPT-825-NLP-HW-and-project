@@ -1,0 +1,2 @@
+- Implemented the baseline method of attention mechanism
+- Documentation
