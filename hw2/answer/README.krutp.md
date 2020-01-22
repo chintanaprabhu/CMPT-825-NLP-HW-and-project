@@ -1,0 +1,3 @@
+- Worked on lexical substitutability measures Add, BalAdd, Mul, BalMul
+- Inference and Debugging
+- Documentation

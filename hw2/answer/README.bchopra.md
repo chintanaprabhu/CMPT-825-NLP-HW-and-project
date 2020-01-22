@@ -1,0 +1,3 @@
+- Implemented retrofitting of the word vectors.
+- Tried to incorporate context words by various methods.
+- Documentation.
