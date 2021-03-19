@@ -10,6 +10,6 @@ scikit_learn==0.22
 tensorflow==1.13.1
 seaborn==0.9.0
 wordcloud==1.6.0
-Pillow==1.1.7
+Pillow==8.1.1
 matplotlib-venn
 spacy==2.2.3
